@@ -4,7 +4,7 @@ youtube video :  https://youtu.be/PluRZjkgfys
 
 
 
-회로도(GPIO 핀이 없는 관계로 아두이노로 대체)
+회로도(GPIO 핀이 없는 관계로 아두이노로 대체 ==> 아두이노의 2,3,4,5번핀 == 22,23,24,25)
 ![image](https://github.com/user-attachments/assets/e9d092cf-80d8-4587-a01d-31360c34d2fa)
 
 https://www.tinkercad.com/things/hFu7pd04CSS/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits
