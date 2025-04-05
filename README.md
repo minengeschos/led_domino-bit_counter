@@ -1,6 +1,16 @@
 youtube video :  https://youtu.be/PluRZjkgfys
 
 
+
+
+
+회로도(GPIO 핀이 없는 관계로 아두이노로 대체)
+![image](https://github.com/user-attachments/assets/e9d092cf-80d8-4587-a01d-31360c34d2fa)
+
+https://www.tinkercad.com/things/hFu7pd04CSS/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits
+
+
+
 # Raspberry Pi GPIO LED 프로젝트
 
 이 저장소는 Raspberry Pi 5의 GPIO 핀을 활용한 두 가지 LED 제어 예제(`led_domino`, `bit_counter`)를 담고 있습니다.  
