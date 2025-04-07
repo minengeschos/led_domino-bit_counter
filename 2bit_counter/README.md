@@ -1,4 +1,4 @@
-youtube video :  https://youtu.be/PluRZjkgfys
+youtube video :  https://youtu.be/PluRZjkgfys  영상을 한번에 촬영하여서 2개의 영상 모두 같은 영상입니다.
 
 
 
